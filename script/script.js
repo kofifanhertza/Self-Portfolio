@@ -3,7 +3,7 @@ let experiences = [
         title : "AI Engineer Intern",
         period : "September 2022 - January 2023",
         description: "I have an experience as an AI Engineer intern under Smart City and Community Inovation Center ITB. Me and my team created data processing pipeline to extract data from road damage detection model",
-        images : [ 'assets/gif/Lubang.gif', 'assets/image/experience/846933_0.jpg','assets/gif/Retak_Kulit_Buaya.gif']
+        images : [ 'https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/gif/Lubang.gif', 'https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/image/experience/846933_0.jpg','https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/gif/Retak_Kulit_Buaya.gif']
     },
     
     
@@ -11,7 +11,7 @@ let experiences = [
         title : "Data Scientist Intern",
         period : "April 2023 - Present",
         description : "Currently I'm working as A Data Scientist on Telkom Indonesia. I managed to create multiple Tableau Dashboard that helps in business decision making",
-        images : ['assets/image/experience/DS_1.png','assets/image/experience/DS_2.png']
+        images : ['https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/image/experience/DS_1.png','https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/image/experience/DS_2.png']
     }
 ]
 
@@ -53,14 +53,14 @@ let portfolios = [
     title: "Magrib Runner",
     tech: "Tech Stack: C#, Unity",
     description: "Maghrib Runner is an endless runner side scrolling mobile game that are developed using Unity Engine",
-    images: ["assets/image/portfolio/mr.jpg"],
+    images: ["https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/image/portfolio/mr.jpg"],
     repo: "https://kofifanhertza.itch.io/maghrib-runner"
   },
   {
     title: "Hotel Price Prediction Model",
     tech: "Tech Stack: Python",
     description: "Built a predictive model employing the Random Forest Regressor algorithm to estimate hotel prices through the analysis of amenities and ratings",
-    images: ['assets/image/portfolio/hotel.jpg'],
+    images: ['https://storage.googleapis.com/bucket_project_dicoding_intricate-idiom-402915/image/portfolio/hotel.jpg'],
     repo: "https://github.com/kofifanhertza/Hotel-Price-Prediction.git"
   }
 ];
